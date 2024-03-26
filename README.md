@@ -6,7 +6,7 @@ I butcher emoji. Like, a lot. Now I'm bothering to actually save them in one pla
 
 Blobfox emojis are distributed under the Apache 2.0 license. All others are distributed under a Creative Commons Attribution Noncommercial Share-Alike 4.0 (CC BY-NC-SA 4.0) license.
 
-_These emoji are based on:_
+**These emoji are based on:**
 
 NeoFox and NeoCat by Volpeon (CC BY-NC-SA 4.0 license)
 
