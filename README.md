@@ -2,6 +2,8 @@
 
 I butcher emoji. Like, a lot. Now I'm bothering to actually save them in one place.
 
+Importable archives of each category can be found [in this release](https://github.com/SymTrkl/emoji/releases/tag/importable), the files are updated when I add new ones. Other [releases](https://github.com/SymTrkl/emoji/releases) have importable archives for various individual updates.
+
 *(The high res versions of the older ones no longer exist, so that directory is very incomplete.)*
 
 Blobfox emojis are distributed under the Apache 2.0 license. All others are distributed under a Creative Commons Attribution Noncommercial Share-Alike 4.0 (CC BY-NC-SA 4.0) license.
