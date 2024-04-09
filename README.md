@@ -17,3 +17,5 @@ Blobfox by Volpeon (Apache 2.0 license)
 NeoPossum by EevieEuphoria (CC BY-NC-SA 4.0 license)
 
 NeoBread by olivvybee (CC BY-NC-SA 4.0 license)
+
+Sylveon by Sugar (CC0 1.0 universal)
