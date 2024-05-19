@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 # creates importable packs
 # usage: pack.sh [dir]
 # where [dir] is a subdirectory in webres

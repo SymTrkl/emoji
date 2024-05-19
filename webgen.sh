@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 # generates web resolution versions of emoji
 #
 for f in $(find highres/ -type f -name "*.png"); do
