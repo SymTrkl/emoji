@@ -1,0 +1,17 @@
+Credits
+=======
+
+Neobot by SymTrkl CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://symtrkl.gay
+https://github.com/SymTrkl/emoji
+
+Based on assets from:
+Volpeon's Neocat set, CC BY-NC-SA 4.0, https://volpeon.ink/emojis/neocat/
+Olivybee's Neobread set, CC BY-NC-SA 4.0, https://github.com/olivvybee/emojis/
+Ibly's Neopossum set, CC BY-NC-SA 4.0, https://skunks.gay/downloads
+Sasha's Neodog set, CC BY-NC-SA 4.0, https://git.gay/moonrabbits/neodog
+Wep's Neomouse set, CC BY-NC-SA 4.0, https://git.gay/av70/neomouse/
+Sugar's Sylveon set, CC0, https://git.gay/sugar/sylveon-emotes
+
+Contributions:
+Animated cylon variant by James, CC-BY-NC-SA 4.0, https://kitty.social/@o76923
