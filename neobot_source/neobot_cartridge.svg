@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2048" height="2048">
+  <defs id="defs4154">
+    <filter id="eye_glow" width="10" height="10" x="-5" y="-5">
+      <feGaussianBlur id="feGaussianBlur4141" in="SourceGraphic" result="blur1" stdDeviation="50"/>
+      <feGaussianBlur id="feGaussianBlur4143" in="SourceGraphic" result="blur2" stdDeviation="25"/>
+      <feGaussianBlur id="feGaussianBlur4145" in="SourceGraphic" result="blur3" stdDeviation="12.5"/>
+      <feComposite id="feComposite4147" in="SourceGraphic" in2="blur1" result="comp1"/>
+      <feComposite id="feComposite4149" in="comp1" in2="blur2" result="comp2"/>
+      <feComposite id="feComposite4151" in="comp2" in2="blur3"/>
+    </filter>
+  </defs>
+  <path id="path957" fill="#000" fill-opacity="1" stroke="#000" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-width="130.2" d="m186 454 306 530 462-266-289-501-38 22-17-30Z" opacity="1" paint-order="markers stroke fill"/>
+  <path id="body" fill="#cbcbcb" stroke="none" d="M1046 448c-137-1-272 39-394 99a828 828 0 0 0-376 381 802 802 0 0 0-65 358c1 122 20 251 93 352a501 501 0 0 0 301 206c80 18 163 12 244 14 201 1 401 2 602-1 60-5 120-26 170-60 93-64 139-176 159-283 21-100 13-202 14-304 1-97-13-195-47-287-29-74-64-149-185-265-120-116-163-126-197-143-98-49-209-69-319-67Z" display="inline" paint-order="markers stroke fill" style="font-variation-settings:'wght' 400"/>
+  <path id="outline" fill="#000" d="M719 1983c-138-6-259-43-354-105-56-38-99-78-142-136a725 725 0 0 1-138-452c0-197 43-366 129-507 37-62 84-120 147-183a920 920 0 0 1 600-276 850 850 0 0 1 368 50c2 0 2-5 2-106 0-125 0-129 8-154A159 159 0 0 1 1464 5c12-2 15-2 73-2l70 1a160 160 0 0 1 133 130c3 16 3 35 3 291v263l9 11a803 803 0 0 1 92 162c41 97 65 199 73 318 4 60 4 185 0 247-17 249-98 415-245 498-46 26-101 44-161 52-44 7-22 6-338 7a282100 282100 0 0 0-454 0zm718-127c158-13 263-96 316-250 24-68 37-148 40-248 1-36 1-154-1-182-6-103-21-186-50-258-23-60-71-139-117-195l-10-11V304l-2-6c-3-7-11-15-18-18-6-2-7-2-60-2l-53 1-5 2c-7 4-12 9-16 16l-2 7v134l-1 134-15-9c-51-33-108-62-147-75a782 782 0 0 0-411-20 960 960 0 0 0-303 121 816 816 0 0 0-302 336c-31 61-53 146-61 230-6 57-7 145-3 199 7 88 23 157 50 215a573 573 0 0 0 127 165c75 66 166 105 272 117 32 4 37 4 175 5h597zm161-1589c7-4 12-11 15-18 2-5 2-7 2-49s0-44-2-49c-3-7-8-14-15-18l-5-2-55-1h-54l-6 3c-7 3-13 9-16 16l-3 6v90l2 6c4 7 9 13 17 16l6 3h109z" display="inline"/>
+  <g id="g934" transform="rotate(-30 1173 2839) scale(.6283)">
+    <path id="rect4186" fill="#ffc95c" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-width="15" d="M313 68v96h83V74h-7v-6z" opacity="1" paint-order="markers stroke fill" transform="scale(8)"/>
+    <path id="rect4191" fill="#ffac02" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-width="120" d="M2619 604h427c33 0 59 26 59 59v10c0 33-26 60-59 60h-427c-33 0-59-27-59-60v-10c0-33 26-59 59-59z" paint-order="markers stroke fill"/>
+    <path id="rect4195" fill="#c5c9d0" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-width="120" d="M2613 789h420c22 0 39 18 39 40v348c0 22-17 40-39 40h-420c-21 0-39-18-39-40V829c0-22 18-40 39-40z" opacity="1" paint-order="markers stroke fill"/>
+    <g id="g922">
+      <path id="path4544" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="62.6" d="M2957 862c-3 0-6 1-40 15l-35 14-3-1a152 152 0 0 0-103-3l-3 1-31-13-32-12c-8-2-16 2-19 10l-1 46v41l-1 2a149 149 0 0 0-16 60 10 10 0 0 0-1 3 10 10 0 0 0 1 11v5c0 12 2 18 3 27v3a10 10 0 0 0-4 14 10 10 0 0 0 12 5v1a100 100 0 0 0 83 54l112 1a100 100 0 0 0 94-88v-42a151 151 0 0 0-13-51l7-42c7-47 7-45 6-50-2-6-7-10-14-10z" style="font-variation-settings:normal"/>
+      <path id="path4546" fill="#ffc95c" stroke-width=".3" d="M2767 1146a100 100 0 0 1-91-78c-1-9-3-15-3-27l1-24a153 153 0 0 1 15-55l1-2v-41l1-46c3-8 11-12 19-10l32 12 31 13 3-1a150 150 0 0 1 103 3l3 1 35-14c39-16 38-15 42-14 7 0 12 4 14 10 1 5 1 3-6 50l-7 42a151 151 0 0 1 13 51v42a100 100 0 0 1-94 88z"/>
+      <path id="path4550" fill="none" stroke="#562a13" stroke-linecap="round" stroke-linejoin="round" stroke-width="20.9" d="m2749 1038 16 33 25-32 33 33 34-33"/>
+      <path id="path4552" fill="none" stroke="#8e5e31" stroke-linecap="round" stroke-linejoin="round" stroke-width="20.9" d="m2698 1072-17 8m17-42-17-9m234 43 34 16m-34-50 34-17" style="font-variation-settings:normal"/>
+      <path id="path906" fill="none" stroke="#000" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="48" d="M2846 980v-18"/>
+      <use xlink:href="#path906" id="use908" width="100%" height="100%" x="0" y="0" transform="translate(-98)"/>
+    </g>
+    <text xml:space="preserve" id="text936" fill="#4d3400" fill-opacity="1" stroke="none" font-family="Roboto Condensed" font-size="100" font-stretch="normal" font-style="italic" font-variant="normal" font-weight="700" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:'Roboto Condensed, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect938)" transform="translate(9 14)" word-spacing="0"><tspan x="2630" y="691"><tspan style="-inkscape-font-specification:'Roboto Condensed, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">VOLPéON</tspan></tspan></text>
+  </g>
+  <path id="path978" fill="#cbcbcb" fill-opacity="1" stroke="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="m413 728 358-227 214 320-322 181-214-171Z"/>
+  <path id="visor" fill="#353535" d="m639 1210-45-5c-35-5-63-13-89-26-53-27-87-71-98-130-4-19-5-28-5-47 0-74 26-142 77-207 66-83 156-133 270-150a1655 1655 0 0 1 378 0c114 17 204 67 270 150 51 65 77 133 77 207 0 19-1 28-5 47-17 86-80 139-183 156-35 6-13 5-341 6l-306-1z" display="inline"/>
+  <rect id="light" width="156.5" height="140.5" x="1458" y="130" fill="#58d3d7" paint-order="markers stroke fill" rx="23.8" ry="27"/>
+  <rect id="stem" width="156.5" height="531.5" x="1459" y="278" fill="#a0a0a0" paint-order="markers stroke fill" rx="26.1" ry="25.7"/>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="80.4" d="m632 1318 97 156 127-161 157 164 192-161"/>
+  <g id="eyes" clip-path="url(#visor)">
+    <path id="left_eye" fill="#58d3d7" d="M1209 834a128 128 0 0 0-128 128v64a128 128 0 0 0 128 128 128 128 0 0 0 128-128v-64a128 128 0 0 0-128-128Z" filter="url(#eye_glow)"/>
+    <use xlink:href="#left_eye" id="right_eye" width="100%" height="100%" x="0" y="0" display="inline" transform="translate(-575)"/>
+  </g>
+</svg>
