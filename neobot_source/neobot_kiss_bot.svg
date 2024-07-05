@@ -16,8 +16,8 @@
     <rect id="light" width="115.7" height="103.8" x="1353" y="590" fill="#58d3d7" stroke-width=".7" paint-order="markers stroke fill" rx="17.6" ry="20"/>
     <rect id="stem" width="115.7" height="392.8" x="1354" y="699" fill="#a0a0a0" stroke-width=".7" paint-order="markers stroke fill" rx="19.3" ry="19"/>
     <g id="eyes" filter="url(#eye_glow)" transform="translate(276 493) scale(.73905)">
-      <use id="right_eye" xlink:href="left_eye" width="100%" height="100%" x="0" y="0" transform="matrix(.86886 0 0 1 -433 0)"/>
       <path id="left_eye" fill="none" stroke="#58d3d7" stroke-linecap="round" stroke-linejoin="round" stroke-width="100" d="M1080 1048a153 153 0 0 1 148-114 153 153 0 0 1 148 114"/>
+      <use id="right_eye" xlink:href="left_eye" width="100%" height="100%" x="0" y="0" transform="matrix(.86886 0 0 1 -433 0)"/>
     </g>
   </g>
   <g id="neobot_back" display="inline" transform="matrix(-1 0 0 1 1723 0)">
