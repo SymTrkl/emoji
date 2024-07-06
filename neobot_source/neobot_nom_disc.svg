@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2048" height="2048">
+  <defs>
+    <clipPath id="clipPath1225" clipPathUnits="userSpaceOnUse">
+      <path d="M869 1323a162 162 0 0 0-162 162 162 162 0 0 0 162 163 162 162 0 0 0 162-163 162 162 0 0 0-162-162zm0 127a35 35 0 0 1 35 35 35 35 0 0 1-35 36 35 35 0 0 1-35-36 35 35 0 0 1 35-35z"/>
+    </clipPath>
+    <filter id="eye_glow" width="10" height="10" x="-5" y="-5">
+      <feGaussianBlur in="SourceGraphic" result="blur1" stdDeviation="50"/>
+      <feGaussianBlur in="SourceGraphic" result="blur2" stdDeviation="25"/>
+      <feGaussianBlur in="SourceGraphic" result="blur3" stdDeviation="12.5"/>
+      <feComposite in="SourceGraphic" in2="blur1" result="comp1"/>
+      <feComposite in="comp1" in2="blur2" result="comp2"/>
+      <feComposite in="comp2" in2="blur3"/>
+    </filter>
+    <linearGradient id="linearGradient1215">
+      <stop id="stop1211" offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop id="stop1229" offset=".5" stop-color="#fff" stop-opacity=".8"/>
+      <stop id="stop1213" offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#linearGradient1215" id="linearGradient1217" x1="801.8" x2="936.6" y1="1495" y2="1479" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <path id="body" fill="#cbcbcb" stroke="none" d="M1046 448c-137-1-272 39-394 99a828 828 0 0 0-376 381 802 802 0 0 0-65 358c1 122 20 251 93 352a501 501 0 0 0 301 206c80 18 163 12 244 14 201 1 401 2 602-1 60-5 120-26 170-60 93-64 139-176 159-283 21-100 13-202 14-304 1-97-13-195-47-287-29-74-64-149-185-265-120-116-163-126-197-143-98-49-209-69-319-67z" display="inline" paint-order="markers stroke fill" style="font-variation-settings:'wght' 400"/>
+  <path id="outline" fill="#000" d="M719 1983c-138-6-259-43-354-105-56-38-99-78-142-136a725 725 0 0 1-138-452c0-197 43-366 129-507 37-62 84-120 147-183a920 920 0 0 1 600-276 850 850 0 0 1 368 50c2 0 2-5 2-106 0-125 0-129 8-154A159 159 0 0 1 1464 5c12-2 15-2 73-2l70 1a160 160 0 0 1 133 130c3 16 3 35 3 291v263l9 11a803 803 0 0 1 92 162c41 97 65 199 73 318 4 60 4 185 0 247-17 249-98 415-245 498-46 26-101 44-161 52-44 7-22 6-338 7a282100 282100 0 0 0-454 0zm718-127c158-13 263-96 316-250 24-68 37-148 40-248 1-36 1-154-1-182-6-103-21-186-50-258-23-60-71-139-117-195l-10-11V304l-2-6c-3-7-11-15-18-18-6-2-7-2-60-2l-53 1-5 2c-7 4-12 9-16 16l-2 7v134l-1 134-15-9c-51-33-108-62-147-75a782 782 0 0 0-411-20 960 960 0 0 0-303 121 816 816 0 0 0-302 336c-31 61-53 146-61 230-6 57-7 145-3 199 7 88 23 157 50 215a573 573 0 0 0 127 165c75 66 166 105 272 117 32 4 37 4 175 5zm161-1589c7-4 12-11 15-18 2-5 2-7 2-49s0-44-2-49c-3-7-8-14-15-18l-5-2-55-1h-54l-6 3c-7 3-13 9-16 16l-3 6v90l2 6c4 7 9 13 17 16l6 3h109z" display="inline"/>
+  <path id="visor" fill="#353535" d="m639 1210-45-5c-35-5-63-13-89-26-53-27-87-71-98-130-4-19-5-28-5-47 0-74 26-142 77-207 66-83 156-133 270-150a1655 1655 0 0 1 378 0c114 17 204 67 270 150 51 65 77 133 77 207 0 19-1 28-5 47-17 86-80 139-183 156-35 6-13 5-341 6z" display="inline"/>
+  <rect id="light" width="156.5" height="140.5" x="1458" y="130" fill="#58d3d7" paint-order="markers stroke fill" rx="23.8" ry="27"/>
+  <rect id="stem" width="156.5" height="531.5" x="1459" y="278" fill="#a0a0a0" paint-order="markers stroke fill" rx="26.1" ry="25.7"/>
+  <g id="g1238" fill-opacity="1">
+    <g id="g1221" stroke-opacity="1" transform="rotate(-21 293 2009) scale(1.1798)">
+      <path id="path1193" fill="#bdeaf3" stroke="#000" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="87.2" d="M869 1323a162 162 0 0 0-162 162 162 162 0 0 0 162 163 162 162 0 0 0 162-163 162 162 0 0 0-162-162 162 162 0 0 0 0 0zm0 127a35 35 0 0 1 0 0 35 35 0 0 1 35 35 35 35 0 0 1-35 36 35 35 0 0 1-35-36 35 35 0 0 1 35-35z" paint-order="markers stroke fill"/>
+      <path id="path1206" fill="url(#linearGradient1217)" stroke="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="8" d="m807 1288 124 395-89 8 54-411z" clip-path="url(#clipPath1225)" style="mix-blend-mode:normal"/>
+    </g>
+    <path id="rect1231" fill="#cbcbcb" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-width="120" d="M507 1229h755v137H507z" paint-order="markers stroke fill"/>
+    <path id="mouth" fill="#cbcbcb" stroke="#353535" stroke-linecap="round" stroke-linejoin="round" stroke-width="80.4" d="m632 1318 97 156 127-161 157 164 192-161"/>
+  </g>
+  <g id="eyes" filter="url(#eye_glow)">
+    <path id="left_eye" fill="#58d3d7" d="m165 112-30 12v4a16 16 0 0 0 16 16 16 16 0 0 0 16-16v-8a16 16 0 0 0-2-8z" transform="scale(8)"/>
+    <use xlink:href="#left_eye" id="right_eye" width="100%" height="100%" x="0" y="0" display="inline" transform="matrix(-1 0 0 1 1843 0)"/>
+  </g>
+</svg>
