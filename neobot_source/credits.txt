@@ -12,6 +12,7 @@ Ibly's Neopossum set, CC BY-NC-SA 4.0, https://skunks.gay/downloads
 Sasha's Neodog set, CC BY-NC-SA 4.0, https://git.gay/moonrabbits/neodog
 Wep's Neomouse set, CC BY-NC-SA 4.0, https://git.gay/av70/neomouse/
 Sugar's Sylveon set, CC0, https://git.gay/sugar/sylveon-emotes
+Devicon, MIT License, https://devicon.dev/https://devicon.dev/
 
 Contributions:
 Animated cylon variant by James, CC-BY-NC-SA 4.0, https://kitty.social/@o76923
