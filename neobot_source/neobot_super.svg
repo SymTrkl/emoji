@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2048 2048">
+  <defs>
+    <filter id="eye_glow" width="10" height="10" x="-5" y="-5">
+      <feGaussianBlur in="SourceGraphic" result="blur1" stdDeviation="50"/>
+      <feGaussianBlur in="SourceGraphic" result="blur2" stdDeviation="25"/>
+      <feGaussianBlur in="SourceGraphic" result="blur3" stdDeviation="12.5 "/>
+      <feComposite in="SourceGraphic" in2="blur1" result="comp1"/>
+      <feComposite in="comp1" in2="blur2" result="comp2"/>
+      <feComposite in="comp2" in2="blur3"/>
+    </filter>
+    <filter id="logo_glow">
+      <feFlood flood-color="#cd4232ff" result="flood" />
+      <feComposite operator="in" in2="SourceGraphic" in1="flood" />
+    </filter>
+  </defs>
+   <path id="cape" fill="#cd4232" stroke="none" d="m 1744.283,1209.1102 182.1061,82.9115 122.6013,757.9593 -2035.548202,7.8639 62.786375,-774.0137 z" />
+   <path id="body" fill="#cbcbcb" stroke="none" d="M1046 448c-137-1-272 39-394 99a828 828 0 0 0-376 381 802 802 0 0 0-65 358c1 122 20 251 93 352a501 501 0 0 0 301 206c80 18 163 12 244 14 201 1 401 2 602-1 60-5 120-26 170-60 93-64 139-176 159-283 21-100 13-202 14-304 1-97-13-195-47-287-29-74-64-149-185-265-120-116-163-126-197-143-98-49-209-69-319-67Z" display="inline" paint-order="markers stroke fill" style="font-variation-settings:'wght' 400"/>
+   <path id="outline" fill="#000" d="M719 1983c-138-6-259-43-354-105-56-38-99-78-142-136a725 725 0 0 1-138-452c0-197 43-366 129-507 37-62 84-120 147-183a920 920 0 0 1 600-276 850 850 0 0 1 368 50c2 0 2-5 2-106 0-125 0-129 8-154A159 159 0 0 1 1464 5c12-2 15-2 73-2l70 1a160 160 0 0 1 133 130c3 16 3 35 3 291v263l9 11a803 803 0 0 1 92 162c41 97 65 199 73 318 4 60 4 185 0 247-17 249-98 415-245 498-46 26-101 44-161 52-44 7-22 6-338 7a282100 282100 0 0 0-454 0zm718-127c158-13 263-96 316-250 24-68 37-148 40-248 1-36 1-154-1-182-6-103-21-186-50-258-23-60-71-139-117-195l-10-11V304l-2-6c-3-7-11-15-18-18-6-2-7-2-60-2l-53 1-5 2c-7 4-12 9-16 16l-2 7v134l-1 134-15-9c-51-33-108-62-147-75a782 782 0 0 0-411-20 960 960 0 0 0-303 121 816 816 0 0 0-302 336c-31 61-53 146-61 230-6 57-7 145-3 199 7 88 23 157 50 215a573 573 0 0 0 127 165c75 66 166 105 272 117 32 4 37 4 175 5h597zm161-1589c7-4 12-11 15-18 2-5 2-7 2-49s0-44-2-49c-3-7-8-14-15-18l-5-2-55-1h-54l-6 3c-7 3-13 9-16 16l-3 6v90l2 6c4 7 9 13 17 16l6 3h109z" display="inline"/>
+   <path id="visor" fill="#353535" d="m639 1210-45-5c-35-5-63-13-89-26-53-27-87-71-98-130-4-19-5-28-5-47 0-74 26-142 77-207 66-83 156-133 270-150a1655 1655 0 0 1 378 0c114 17 204 67 270 150 51 65 77 133 77 207 0 19-1 28-5 47-17 86-80 139-183 156-35 6-13 5-341 6l-306-1z" display="inline"/>
+   <rect id="light" width="156.5" height="140.5" x="1458" y="130" fill="#58d3d7" paint-order="markers stroke fill" rx="23.8" ry="27"/>
+   <rect id="stem" width="156.5" height="531.5" x="1459" y="278" fill="#a0a0a0" paint-order="markers stroke fill" rx="26.1" ry="25.7"/>
+   <path id="mouth" fill="none" stroke="#353535" stroke-linecap="round" stroke-linejoin="round" stroke-width="80.4" d="m672 1258 97 156 127-161 157 164 192-161" />
+   <g id="eyes">
+      <path id="left_eye" fill="#58d3d7" d="m 1169,734 a 128,128 0 0 0 -128,128 v 64 a 128,128 0 0 0 128,128 128,128 0 0 0 128,-128 V 862 A 128,128 0 0 0 1169,734 Z" filter="url(#eye_glow)"/>
+      <use xlink:href="#left_eye" id="right_eye" width="100%" height="100%" x="0" y="0" display="inline" transform="translate(-575)"/>
+   </g>
+   <g id="super">
+      <path id="hair_curl" fill="#000" stroke="none" d="m 1064.7453,447.17791 c 0,0 -58.8217,3.67631 -12.2545,58.82161 46.5671,55.14526 11.0291,80.87973 -20.8327,100.48693 -31.86166,19.60721 -99.26145,-4.9018 -101.71235,-26.95991 0,0 45.34166,18.38176 73.52705,0 28.1853,-18.38176 51.4689,-34.31261 -52.6944,-85.78152 l -116.4178,-79.6543 193.6212,-42.89076 c 0,0 134.7995,22.05811 134.7995,30.63629 0,8.57811 -98.036,45.34166 -98.036,45.34166 z" />
+      <path id="shield" fill="#ffea98" stroke="#cd4232" stroke-width="72" stroke-linejoin="bevel" d="m 677.09961,1491.8809 c 0,18.4603 -10.4158,36.3052 -29.16427,47.9967 l 208.31624,288.5952 c 13.19336,-7.9994 96.51988,-12.3069 113.18517,-12.3069 16.66529,0 99.99175,4.3075 113.18515,12.3069 l 208.3162,-288.5952 c -18.0541,-11.0762 -29.1642,-28.9211 -29.1642,-47.9967 z"/>
+      <path id="left_pauldron" fill="#cd4232" stroke="none" d="m 1467.1488,1409.8577 39.9076,70.5339 189.6634,453.3331 -24.91,90.8018 300.1789,-44.3263 -46.5901,-698.4587 c -235.2495,-27.8184 -362.3828,-73.2046 -458.2498,128.1162 z" />
+      <use id="right_pauldron" xlink:href="#left_pauldron" width="100%" height="100%" transform="matrix(-1,0,0,1,2010.4986,0)" />
+      <image id="icon" filter="url(#logo_glow)" x="808" y="1498" height="308" width="308" xlink:href="devicons/php-plain.svg" />
+   </g>
+</svg>
