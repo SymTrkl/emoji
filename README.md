@@ -57,3 +57,5 @@ These emoji are based on:
 [NeoMouse](https://git.gay/av70/neomouse/) by Wep (CC BY-NC-SA 4.0 license)
 
 [Neocatraxx](https://codeberg.org/o76923/neomoji) by James (CC BY-NC-SA 4.0 license)
+
+[Deviicon](https://devicon.dev/) by Konpa (MIT license)
