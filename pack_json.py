@@ -8,6 +8,7 @@
 import json
 import sys
 import os
+import datetime
 
 folder = sys.argv[1]
 relpath = "webres/" + folder # edit this to use this script in another environment
@@ -19,7 +20,7 @@ for filename in os.listdir(relpath):
 	if filename != "meta.json":
 		emojis.append({
 			"downloaded": True,
-			"filename":  filename,
+			"fileName":  filename,
 			"emoji": {
 				"name": filename.rsplit(".")[0],
 				"category":folder.capitalize(),
