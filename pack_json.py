@@ -8,7 +8,6 @@
 import json
 import sys
 import os
-import datetime
 
 folder = sys.argv[1]
 relpath = "webres/" + folder # edit this to use this script in another environment
