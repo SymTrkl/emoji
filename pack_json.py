@@ -22,7 +22,7 @@ for filename in os.listdir(relpath):
 			"fileName":  filename,
 			"emoji": {
 				"name": filename.rsplit(".")[0],
-				"category":folder.capitalize(),
+				"category":folder,
 				"aliases": []
 			}
 		})
