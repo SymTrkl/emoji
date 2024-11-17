@@ -18,4 +18,5 @@ James's Neocatraxx set, CC BY-NC-SA 4.0, https://codeberg.org/o76923/neomoji
 Visor text font is Disposable Digi by Nate Piekos, Non-profit/Indie Comics Use License, https://blambot.com/products/disposable-digi
 
 Contributions:
-aneobot_blink, aneobot_bongo, aneobot_floof_blink, aneobot_jump, aneobot_mlem, aneobot_talk, aneobot_walk, neobot_cartridge, neobot_kiss_bot, neobot_legs, neobot_nom_disc, neobot_smol, neobot_spoon_bot, neobot_spoon_bread, neobot_spoon_cat, neobot_spoon_fox, neobot_spoon_possum, neobot_spoon_potato, neobot_train_wagon, neocatraxx_spoon_neobot, neomouse_spoon_bot, all neobot_code variants, and all SVG source files by James, CC-BY-NC-SA 4.0, https://kitty.social/@o76923
+aneobot_blink, aneobot_bongo, aneobot_floof_blink, aneobot_jump, aneobot_mlem, aneobot_talk, aneobot_walk, neobot_cartridge, neobot_kiss_bot, neobot_legs, neobot_nom_disc, neobot_smol, neobot_spoon_bot, neobot_spoon_bread, neobot_spoon_cat, neobot_spoon_fox, neobot_spoon_possum, neobot_spoon_potato, neobot_train_wagon, neocatraxx_spoon_neobot, neomouse_spoon_bot, all neobot_code variants, and SVG source files by James, CC-BY-NC-SA 4.0, https://kitty.social/@o76923
+neobot_power_loss, neobot_power_loss_ahegao, neobot_smoke, and neobot_smoke_ahegao by MinekPo1, CC-BY-NC-SA 4.0, https://mastodon.catgirl.cloud/@minekpo1
