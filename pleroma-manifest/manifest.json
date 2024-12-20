@@ -7,6 +7,22 @@
     "src": "https://github.com/SymTrkl/emoji/releases/download/neobot/neobot.zip",
     "src_sha256": "D9BF8412123ECED1B05B0E418969E62CED2BEF87C934515A3EACB4C93C2D8934"
   },
+  "neobot_code": {
+    "description": "neobot displaying all 400+ icons from the Devicon set, by intrepid neomoji historian James",
+    "files": "neobot_code_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/neobot",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/neobot/neobot_code.zip",
+    "src_sha256": "142F6B55FB0DEC62BA5B400F0E14DE76FEBB3D270F279F67CE51DD4286DEF89B"
+  },
+  "neobot_extras": {
+    "description": "the various neocritters hugging the bot, spooning the bot, wearing a bot mask, that kind of thing.",
+    "files": "neobot_extras_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/neobot",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/neobot/neobot_extras.zip",
+    "src_sha256": "16D80F1839D707B8B21B896FD2238A33CF2E091D20181ABC90BC9F4BE4425810"
+  },
   "hug_bat": {
     "description": "everyone has that one friend with a blob bat in their profile. now you can hug that person",
     "files": "hug_bat_files.json",
