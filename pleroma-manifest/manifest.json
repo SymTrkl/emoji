@@ -1,0 +1,122 @@
+{
+  "neobot": {
+    "description": "Neobots! A whole set of them! ▛▚▞▘▛▚!",
+    "files": "neobot_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/neobot",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/neobot/neobot.zip",
+    "src_sha256": "D9BF8412123ECED1B05B0E418969E62CED2BEF87C934515A3EACB4C93C2D8934"
+  },
+  "hug_bat": {
+    "description": "everyone has that one friend with a blob bat in their profile. now you can hug that person",
+    "files": "hug_bat_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/hug_bat",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/hug_bat/hug_bat.zip",
+    "src_sha256": "5E1DA8172E2E86B90F397445150AEA4CD13633A32FC0DCC47F89C04CF5CAAFB1"
+  },
+  "bread_hugs": {
+    "description": "i made a neobread_hug base, so of course i had to go back and make bread hug all the stuff i've already made the other neocritters hug (note that the sylveon, gideon, and puffer hugs aren't in this release as they're already in their own specific releases)",
+    "files": "bread_hugs_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/bread_hugs",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/bread_hugs/bread_hugs.zip",
+    "src_sha256": "5855EA43632E81C077B47989DB9C8DDB7E148BEA201CF711099658934F75AC38"
+  },
+  "floofy_bois": {
+    "description": "just the floofy bois",
+    "files": "floofy_bois_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/floofy_bois",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/floofy_bois/floofy_bois.zip",
+    "src_sha256": "DCEAB8D06D463D512FDEA7DC892AA15ED1A82F6385988ADA01FCB5DAB0C39C6A"
+  },
+  "hug_yaseen": {
+    "description": "maybe yassie needed a hug? what are you, a cop?",
+    "files": "hug_yaseen_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/yashug1.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/yashug1.0/hug_yaseen.zip",
+    "src_sha256": "44E0DC615516B85433EBF5EB9B795001F6EC6A83FFBB7EF18C6FE1D1F7FB530B"
+  },
+  "nom_yas": {
+    "description": "\"Hey Jenny is 'neocat bite yassie' possible?\" And I said \"extremely possible.\"",
+    "files": "nom_yas_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/nom_yas",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/nom_yas/nom_yas.zip",
+    "src_sha256": "2A3F99067E2F3C52AE6427C9C7305DA6FFF87CCC1693D047F2CA2F32E1C9A096"
+  },
+  "neocat_the_ninth": {
+    "description": "neocat cosplaying as gideon the ninth for all you gideon the ninth fans",
+    "files": "neocat_the_ninth_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/neogriddle",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/neogriddle/neocat_the_ninth.zip",
+    "src_sha256": "4809F5D46E209576D9ECE4BF0F38410F3DE321BDF10B62F3C4E18FEC47DEA258"
+  },
+  "neocritter-drake": {
+    "description": "the drake meme, except instead of drake, who is awful, it is neopossum, cat, and foxen, who are delightful",
+    "files": "neocritter-drake_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/neocritter_drake",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/neocritter_drake/neocritter-drake.zip",
+    "src_sha256": "7FC9CFC35BC9CA0EEA72777FC4355D5C4BB98029DE0A72117DD302EC22807DCA"
+  },
+  "puffer_hugs": {
+    "description": "ever wanted to hug the pufferfish from stardew valley? shut up, yes you did",
+    "files": "puffer_hugs_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/puffer_hug",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/puffer_hug/puffer_hugs.zip",
+    "src_sha256": "B448CF29CE4AC01FC9BE1A528B8FBE14A3DF8009DF1619461FDB94D473F3FD9D"
+  },
+  "swearing_critters": {
+    "description": "Sometimes you just gotta swear.",
+    "files": "swearing_critters_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/swearing_critters",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/swearing_critters/swearing.zip",
+    "src_sha256": "55C3B5E010BA3F62533A47A1E8EFDBD7F13FF1AE00CF131CCAB2BECEB3C07743"
+  },
+  "sylveon_hugs": {
+    "description": "Extra hug emote's for Sugar's Sylveon emoji set",
+    "files": "sylveon_hugs_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/sylveon_hugs",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/sylveon_hugs/sylveon_hugs.zip",
+    "src_sha256": "D29B43AC5D4BB5C7B2B708990AC89D27F2AEB799636AE56E24F0F075A18E1BDA"
+  },
+  "sylveon_hugs_for_1.2.0": {
+    "description": "Extra hug emote's for Sugar's Sylveon emoji set (Version without Neocat and Neofox)",
+    "files": "sylveon_hugs_for_1.2.0_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/sylveon_hugs",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/sylveon_hugs/sylveon_hugs_for_1.2.0.zip",
+    "src_sha256": "58E1EE5ECFE0FD2B96B53C1873B987374FFE9AC257D60FE7500ED21D4A5CAC8A"
+  },
+  "this_is_fine": {
+    "description": "i am fine this is fine (updated with better fire!)",
+    "files": "this_is_fine_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/this_is_fine",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/this_is_fine/this_is_fine.zip",
+    "src_sha256": "620EC17AE8EC45FEBF4AA8F41EAF097E013045A421E063C2B598FD19427C20C8"
+  },
+  "transbian_kisser": {
+    "description": "neo cat/fox/possum boykisser face on trans, lesbian, and transbian flags, as well as the regular transbian versions",
+    "files": "transbian_kisser_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/transbian_kisser",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/transbian_kisser/transbian_kisser.zip",
+    "src_sha256": "2558A0E1B87E627DE3810738384A0CE3A94FF1E088690DDC9EAF07EEA1C209D4"
+  },
+  "yasflag": {
+    "description": "yaseen_kisser? yaseen kisser",
+    "files": "yasflag_files.json",
+    "homepage": "https://github.com/SymTrkl/emoji/releases/tag/yasFlags",
+    "license": "CC-BY-NC-SA-4.0",
+    "src": "https://github.com/SymTrkl/emoji/releases/download/yasFlags/yasflag.zip",
+    "src_sha256": "B44C30EC30B5D8C06051A153DFDEC9D4D9291737B568F89D1E5E29F06C41AFA3"
+  }
+}
