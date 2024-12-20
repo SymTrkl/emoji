@@ -12,7 +12,7 @@ My first full emoji set, [NeoBot!](https://github.com/SymTrkl/emoji/releases/tag
 
 [bat hugs](https://github.com/SymTrkl/emoji/releases/tag/hug_bat) - hug that blob bat emoji, little critters
 
-[bread hugs](https://github.com/SymTrkl/emoji/releases/tag/sylveon_hugs) - neobread versions of all my previous hugging emoji
+[bread hugs](https://github.com/SymTrkl/emoji/releases/tag/bread_hugs) - neobread versions of all my previous hugging emoji
 
 [floofy bois](https://github.com/SymTrkl/emoji/releases/tag/floofy_bois) - Floof variants of neobread and neopossum.
 
